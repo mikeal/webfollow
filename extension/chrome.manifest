@@ -1,0 +1,5 @@
+resource webfollow resource/
+
+content webfollow content/
+
+overlay chrome://browser/content/browser.xul chrome://webfollow/content/overlay.xul
